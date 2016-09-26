@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		82099E271D98CF32004FC7EC /* PopoverVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82099E261D98CF32004FC7EC /* PopoverVC.swift */; };
 		82FA3D6A1D98C58700313BCE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82FA3D691D98C58700313BCE /* AppDelegate.swift */; };
 		82FA3D6C1D98C58700313BCE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82FA3D6B1D98C58700313BCE /* ViewController.swift */; };
 		82FA3D6F1D98C58700313BCE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82FA3D6D1D98C58700313BCE /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		82099E261D98CF32004FC7EC /* PopoverVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopoverVC.swift; sourceTree = "<group>"; };
 		82FA3D661D98C58700313BCE /* Popover test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Popover test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		82FA3D691D98C58700313BCE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		82FA3D6B1D98C58700313BCE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				82FA3D691D98C58700313BCE /* AppDelegate.swift */,
 				82FA3D6B1D98C58700313BCE /* ViewController.swift */,
+				82099E261D98CF32004FC7EC /* PopoverVC.swift */,
 				82FA3D6D1D98C58700313BCE /* Main.storyboard */,
 				82FA3D731D98C58700313BCE /* Assets.xcassets */,
 				82FA3D751D98C58700313BCE /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 				82FA3D6C1D98C58700313BCE /* ViewController.swift in Sources */,
 				82FA3D6A1D98C58700313BCE /* AppDelegate.swift in Sources */,
 				82FA3D721D98C58700313BCE /* Popover_test.xcdatamodeld in Sources */,
+				82099E271D98CF32004FC7EC /* PopoverVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,6 +305,7 @@
 				82FA3D7D1D98C58700313BCE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
